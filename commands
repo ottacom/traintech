@@ -1,0 +1,2 @@
+echo "color red" | nc 192.168.144.131 23
+echo "show 1>>,white,blue" | nc 192.168.144.131 23
